@@ -1,4 +1,4 @@
-# Submission 1: Covid 19 tweet sentiment analysis
+# Submission 1: Real / Fake Job Posting Prediction
 
 Nama: Muhamad Shadri
 
